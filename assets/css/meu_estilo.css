@@ -1,9 +1,14 @@
+*{
+    margin: auto    0   ;
+}
+
+
+
 nav
 {
     height: 50px;
     background-color: #484848;
     color: #c8c8c8;
-    padding: 10px;
     display: flex;
     align-items:center ;
     
@@ -12,6 +17,7 @@ nav
 
 nav li
 {
+    padding: 10px;
     display: flex;
     align-items: flex-end;
 }
@@ -20,3 +26,12 @@ a
 {
     text-decoration: none;
 }
+
+a.hover
+{
+    text-align: none;
+    color: pink;
+}
+
+
+

@@ -65,14 +65,16 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 
 .projeto{
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border: #9920a3 solid 5px;
     margin: 10px;
+    padding: 50px;
 }
 
 
@@ -85,4 +87,9 @@ p{
     background-color: rgb(185, 120, 0);
     border-radius: 100px;
     padding: 2px 5px;
+}
+
+.logos
+{
+    width: 100px;
 }

@@ -1,4 +1,5 @@
 *{
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -92,4 +93,19 @@ p{
 .logos
 {
     width: 100px;
+}
+footer
+{
+    background-color: #0c913fb4;
+    height: 170px;
+}
+.rodapeassunto
+{
+    font-size: 60px;
+    text-align: center;
+}
+.since 
+{
+    font-size: 50px;
+    color: #960e8b18;
 }
